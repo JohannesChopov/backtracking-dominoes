@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="be.domino.AlgoritmeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-02T10:46:22" hostname="LAPTOP-FHA0GEF0" time="0.101">
+  <properties/>
+  <testcase name="TestChecklaatste()" classname="be.domino.AlgoritmeTest" time="0.088"/>
+  <testcase name="TestCheckLengte()" classname="be.domino.AlgoritmeTest" time="0.001"/>
+  <testcase name="testBerekenLangsteLengteInOplossingenMetLijstVan2EnLijstVan3_Zou3moetenTeruggeven()" classname="be.domino.AlgoritmeTest" time="0.001"/>
+  <testcase name="testIsVeilig()" classname="be.domino.AlgoritmeTest" time="0.004"/>
+  <testcase name="TestCheckEchteLengte()" classname="be.domino.AlgoritmeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
